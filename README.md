@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo16897
 Fork on GitHub4777
 <h1 align="center">Hi 👋, I'm Kiran Rai</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack (MERN) developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raikiran07&label=Profile%20views&color=0e75b6&style=flat" alt="raikiran07" /> </p>
 
