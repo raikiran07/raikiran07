@@ -9,7 +9,7 @@ Fork on GitHub4777
 
 - 🌱 I’m currently learning **nextjs, typescript**
 
-- 👨‍💻 All of my projects are available at [https://raikiran07.github.io/portfolio/](https://raikiran07.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://raikiran07.github.io/portfolio/](https://kiranra.tech)
 
 - 💬 Ask me about **javascript, reactjs, java**
 
